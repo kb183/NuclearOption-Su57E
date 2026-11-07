@@ -1,0 +1,4 @@
+# Install outside Unity Temp: python -m pip install --target Tools/AuthoringDeps -r Tools/requirements_su57_authoring.txt
+numpy==2.5.4
+shapely==2.2.0
+Pillow>=10

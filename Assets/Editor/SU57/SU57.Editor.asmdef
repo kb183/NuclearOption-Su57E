@@ -1,0 +1,15 @@
+{
+  "name": "SU57.Editor",
+  "references": ["Blueprinter.Editor", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime", "Unity.Addressables"],
+  "overrideReferences": true,
+  "precompiledReferences": ["Assembly-CSharp.dll", "Mirage.dll"],
+  "includePlatforms": ["Editor"],
+  "defineConstraints": ["SU57_GAME_IMPORTED"],
+  "versionDefines": [
+    {
+      "name": "nuclearoption",
+      "expression": "0.0.0",
+      "define": "SU57_GAME_IMPORTED"
+    }
+  ]
+}
