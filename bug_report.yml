@@ -1,0 +1,33 @@
+name: Bug report / 问题反馈
+description: 报告模型、动作、加载、碰撞或其他问题
+title: "[Bug] "
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: 版本
+      description: MOD、游戏、Blueprinter、BepInEx 的实际版本
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤
+      description: 包括地图、机库、挂载及何时出现问题
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 预期与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 日志与截图
+      description: 仅提供相关片段；删除私人信息，勿上传游戏文件或第三方完整资源包
+  - type: input
+    id: other-mods
+    attributes:
+      label: 同时启用的其他 MOD
