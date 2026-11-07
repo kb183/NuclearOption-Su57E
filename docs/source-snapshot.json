@@ -1,0 +1,412 @@
+{
+  "sourceVersion": "0.2.34",
+  "snapshotDate": "2026-11-07",
+  "meaning": "SHA-256 values of source inputs before repository portability edits; not build or game validation.",
+  "upstreamBlueprinterCommit": "6a9b43c8f245b27538700810ea769b79736d277d",
+  "files": [
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.cs",
+      "sha256": "8e75db02ab1e06aff176d6e29ae825aafe06464acce94b64b68191a64bd6f69f"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.cs.meta",
+      "sha256": "f06e7162da2bb988293b18498bdc51f101b969bdb68aa2514cf8aa68909766c4"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Damage.cs",
+      "sha256": "0cebcd7b864ac5888f8ca9be452fd32b9766844ae5f1baa51ad3db56fd861c75"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Damage.cs.meta",
+      "sha256": "694e4a1e04c6b0ca196a5e03bff4262c85fe1dba13c00b261672cced684a3fd3"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Flame.cs",
+      "sha256": "23a17698d39f25b256da191a493dde7639c3ce0f7ba3eeb168417c0c9b0600fc"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Flame.cs.meta",
+      "sha256": "d8fcb0ede2bee557a89cd761cde920c366c2aef93e14e2dab148ab5f723cc4a5"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearAppearance.cs",
+      "sha256": "16d5b90257ed8d8eca29c98c9002e79c5e7ececa78e057514d8b2cce70419925"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearAppearance.cs.meta",
+      "sha256": "bcb4b9e0d9654b6a8c48efe292220a3b1246bb7ea3d60d4c5cbe90f2736c50c8"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearBrace.cs",
+      "sha256": "95c946970ccc925540774304995b3f1fd9299f69e58b80e702555aac39116ab4"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearBrace.cs.meta",
+      "sha256": "a92e9c6ff2b98a08f320d1b5ff22283ba9e5c9656040a8c00ae1b9b6de44cdf1"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearMotion.cs",
+      "sha256": "b6bc6c8f30aef65d84c2aa085624fd7814fddf4e5b3fdf46e8ac4f7768081660"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearMotion.cs.meta",
+      "sha256": "ba3e5cb893368e3378d64b1148016582abb66f859c4aa9a75eb57b207c144921"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearStow.cs",
+      "sha256": "1b307f4efbe5e2d4a82381464a246951053975edfc6bfec565c6deabddb39c78"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.GearStow.cs.meta",
+      "sha256": "da41ea78d8a3aea95a0e83bfec94c442fdb841e5c528856bcb3bb0f1ba55fb5b"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.LandingGear.cs",
+      "sha256": "062a0b9b4aa41d105af2d4e8e9a0bdb22ee8a590a883f228e0d374dddbd60055"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.LandingGear.cs.meta",
+      "sha256": "a116025860a2997dd8fd74e51666312a2cc7a6ae2750cc552f5b8351655b5a85"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Liveries.cs",
+      "sha256": "728a88787cf98bc469be46dfc4796699d3b5686345e822b6518e276d2c044e75"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Liveries.cs.meta",
+      "sha256": "abffd66a9ff75bab2f17767aac3d5fa0f476329e3eb81dbcc2841c60864b2f98"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.NoseGear.cs",
+      "sha256": "e8ef25285b4556715557d30d51e12cfe9b3e0cf24c7c8ef6df6bff830e834c43"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.NoseGear.cs.meta",
+      "sha256": "16a917fff1f368a6c40ac748032a9e34674aa97d7f1a0f31625b900852ca91ee"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Physics.cs",
+      "sha256": "9435b915367807fe5e55e80fdf0c56c409d2f4529ce51cfeaed09850b6075151"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Physics.cs.meta",
+      "sha256": "35f5cd79e322ff4ec456c90bd26cfa85533520b89a3abf2a245e36b1665b3f09"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Surface.cs",
+      "sha256": "bf1fb595a22ca1855280873f2fd5693155a8b8655bc8ba79f417ce2aae59a782"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Surface.cs.meta",
+      "sha256": "930a85275310e80675b1ff5a63b926d34b23d93a3062bfffeb854d53096d18c3"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Weapons.cs",
+      "sha256": "deb51b1322c2b623b61d08fced1359d1537466fda7f8bb32444fee52f5bcc124"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Weapons.cs.meta",
+      "sha256": "c62978f4e492ddf1d35488648d501c9ce0f433e9b01525891f13bd17c2ab57a2"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Wings.cs",
+      "sha256": "6ddcafa4d181c877aa2a20f08f591b75de4c64ee1106e919cadaad81fddf4905"
+    },
+    {
+      "path": "Assets/Editor/SU57/BuildSu57.Wings.cs.meta",
+      "sha256": "73c17727644d3b0b2330e199f7b43dc0a56d87c3a3277979b3f86cf1e1187563"
+    },
+    {
+      "path": "Assets/Editor/SU57/InspectSu57.cs",
+      "sha256": "c9ff7887a8c951de6b30a79db6aa21c77ef106a0516e3c39e15871e2a5297448"
+    },
+    {
+      "path": "Assets/Editor/SU57/InspectSu57.cs.meta",
+      "sha256": "2e7ee0a13f83805e649e85cbbc77a3f4b9376c4f8e2097adfa669d1ac51640d4"
+    },
+    {
+      "path": "Assets/Editor/SU57/SU57.Editor.asmdef",
+      "sha256": "2aa66ecd49aec0b60492a615fc6475abaaeb7036557f50f99ca5115dfd120875"
+    },
+    {
+      "path": "Assets/Editor/SU57/SU57.Editor.asmdef.meta",
+      "sha256": "96841efb6b5ef333b7bf4a12cb266c08fe70c2932bf4c9bfab8c87c080eac4a9"
+    },
+    {
+      "path": "Assets/Editor.meta",
+      "sha256": "4a4c9c75eb9a61cc0d7b295fb7eef886d5db4937f8ea1b1b5ea34f4898ffa0b1"
+    },
+    {
+      "path": "Assets/Editor/SU57.meta",
+      "sha256": "eae4caf68fee65e30623fdbe160ee0001540f6daae164c685c44ccbb2012283e"
+    },
+    {
+      "path": "Assets/Settings.meta",
+      "sha256": "73c8e19843240273facb0af6bdbf430d719e397aded705629594060ce25ce7ad"
+    },
+    {
+      "path": "Assets/Blueprinter.meta",
+      "sha256": "0bc6ab0a456ff4333ea3cde9a1602cfcd3f3aef15073d65fe6cf912f91d5b024"
+    },
+    {
+      "path": "Assets/Blueprinter/Mods.meta",
+      "sha256": "382c207e97065d4f2b942f680b554d4a8cc008b3951f3d800336c78c28a9d43d"
+    },
+    {
+      "path": "Assets/Blueprinter/Mods/SU57.meta",
+      "sha256": "3c33bce31d653fbb1c79e06634af905ed6b85c5c44c34c8f125a19fb8349e436"
+    },
+    {
+      "path": "Assets/UniversalRenderPipelineGlobalSettings.asset",
+      "sha256": "ad47c9a555fa0774e8982e52f039ce9c33a21b1524c18d7e430d1505708bb014"
+    },
+    {
+      "path": "Assets/UniversalRenderPipelineGlobalSettings.asset.meta",
+      "sha256": "f61661d8bc8dbe531daf09f6211ef978c7ba145c9207c8e76524396ae0722d7c"
+    },
+    {
+      "path": "Assets/Settings/SampleSceneProfile.asset",
+      "sha256": "a9932bcba1b1b55c8939c72aca2b5cca21efc41847bd16208fe3e171c9cba89f"
+    },
+    {
+      "path": "Assets/Settings/SampleSceneProfile.asset.meta",
+      "sha256": "ca16ad198ed1e1035cb3597a05a38465ceec9eac871e576e3b14280c7f4454d3"
+    },
+    {
+      "path": "Assets/Settings/URP-Balanced-Renderer.asset",
+      "sha256": "8ddaba42cf10b34a3797d185fb1755dd65bf9bcac2d31af190d0ad465e29cb57"
+    },
+    {
+      "path": "Assets/Settings/URP-Balanced-Renderer.asset.meta",
+      "sha256": "ebbb7afa6c1a6e28d17b2125e19e634a4b03a8abe5d7263f220a042b0ea62103"
+    },
+    {
+      "path": "Assets/Settings/URP-Balanced.asset",
+      "sha256": "a5db9800f5e089c61624ebb44e7fe3d0297d7f69b93f1c89d4e396661dc94783"
+    },
+    {
+      "path": "Assets/Settings/URP-Balanced.asset.meta",
+      "sha256": "582d59eee6f9e76075756f73ce0df51df7165d725956be92750ac4a7e2c6e4cd"
+    },
+    {
+      "path": "Assets/Settings/URP-HighFidelity-Renderer.asset",
+      "sha256": "a8f65b6a4a95dd9d71fb896e44cdb2173d4b771a904e67f4f68e015e0a639e0d"
+    },
+    {
+      "path": "Assets/Settings/URP-HighFidelity-Renderer.asset.meta",
+      "sha256": "1f35ac5b27888da9ed16c57d619316d9aedc9d760f18fb2350592698f38702ee"
+    },
+    {
+      "path": "Assets/Settings/URP-HighFidelity.asset",
+      "sha256": "a015d17056607ae2b98ced1803923ff3ca18218fa4d670145a81cb7312bc9b6d"
+    },
+    {
+      "path": "Assets/Settings/URP-HighFidelity.asset.meta",
+      "sha256": "4f4e042a301842e1e072de030d7dfafa1a6498c7d69177a62f645a233c54c234"
+    },
+    {
+      "path": "Assets/Settings/URP-Performant-Renderer.asset",
+      "sha256": "11d4463a714b8572792a6818dece9e3c84ee2635dff9048575155b064e056bb9"
+    },
+    {
+      "path": "Assets/Settings/URP-Performant-Renderer.asset.meta",
+      "sha256": "299b5cb85aa3528d3255645dd3e11be5530ea4275255e0df460d3ca8866fa28b"
+    },
+    {
+      "path": "Assets/Settings/URP-Performant.asset",
+      "sha256": "ac0155c9350d22ed77eef1a1162fb5296a70c2477b925f92ead17a5ed0329c16"
+    },
+    {
+      "path": "Assets/Settings/URP-Performant.asset.meta",
+      "sha256": "26a8380abc9f83be23c7a6749e165af3ee254ee1e6b13c5c5bc9a735a30ca241"
+    },
+    {
+      "path": "ProjectSettings/AudioManager.asset",
+      "sha256": "aeedeb3243f07b61dbbe854aa08b5ef6f0b5274dd9852ad9f6129dde3e105a31"
+    },
+    {
+      "path": "ProjectSettings/BurstAotSettings_StandaloneWindows.json",
+      "sha256": "c99bbd84e7c1be66b09062803185998ec7c74594fa3b684c27a291c6da1c1e6b"
+    },
+    {
+      "path": "ProjectSettings/ClusterInputManager.asset",
+      "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623"
+    },
+    {
+      "path": "ProjectSettings/CommonBurstAotSettings.json",
+      "sha256": "df1476b360fe4e15a17ad34e7bc49aa27b62fd35d8a79786f516981a86bf01df"
+    },
+    {
+      "path": "ProjectSettings/DynamicsManager.asset",
+      "sha256": "b7c9a9dc08b98990109d4346f68745e15e238de400f96c583e53e1c83c743a78"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "sha256": "f9d68927e33f4f3e699f69b00ad4478aedfa5df56941988fb3504599b27f4e46"
+    },
+    {
+      "path": "ProjectSettings/EditorSettings.asset",
+      "sha256": "2f29d5142f8e94397fecb22a5c70514cc4022d2fbe7ffec743167d25701fc1ff"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "sha256": "8a16c389ea5918a432aa1ab553520c770c01ed9b3b3939435342c2efbb54ed91"
+    },
+    {
+      "path": "ProjectSettings/InputManager.asset",
+      "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2"
+    },
+    {
+      "path": "ProjectSettings/MemorySettings.asset",
+      "sha256": "1e8379a461b10ae09f3f696911088c16875d63e87ed5f2d95df9e1892703f9fd"
+    },
+    {
+      "path": "ProjectSettings/NavMeshAreas.asset",
+      "sha256": "80106cfa7e6181a1928b142c075f3e510d527441e3d79bc83590e4ac91e7cd66"
+    },
+    {
+      "path": "ProjectSettings/PackageManagerSettings.asset",
+      "sha256": "a7dabba589abe7fc2b45bd3d3fba3fe9be97043492703f716da2d9131c13a807"
+    },
+    {
+      "path": "ProjectSettings/Physics2DSettings.asset",
+      "sha256": "e3cbdbf0be15244b7b67d2f07bdb8e8981911c11a8c7fe8035f5261272fec658"
+    },
+    {
+      "path": "ProjectSettings/PresetManager.asset",
+      "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "sha256": "1dbef3d3c3f10161bb2c78e77206bea27a19e381dbc79a0aee78a225a07f31c6"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "sha256": "21b4cd39f50b6e0b77cc9f18b79c453e9212e19b953a23e0ceb761c627de97c3"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "sha256": "4c8a55dc9d5dc3aafa8946e928a6622161049b1901f36ea54eefb508382f1494"
+    },
+    {
+      "path": "ProjectSettings/SceneTemplateSettings.json",
+      "sha256": "d983786fb35276642847feb98f87259be23343f2c3eccc001baa1b787f944615"
+    },
+    {
+      "path": "ProjectSettings/ShaderGraphSettings.asset",
+      "sha256": "91b34076dbdb68e7ef980d06b89a53ee5e2afb72d3b60f5bd4041e6206395ed4"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "sha256": "bb483e1679473663c48d8aa3664b0071ad259607664cd8355ae9e0738a9d0f60"
+    },
+    {
+      "path": "ProjectSettings/TimeManager.asset",
+      "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd"
+    },
+    {
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "sha256": "d6034acbef6c9e3179866486c31eab81fcbe5e7ed350ce71e0fa2b1449b77109"
+    },
+    {
+      "path": "ProjectSettings/URPProjectSettings.asset",
+      "sha256": "3e9d9f824875297ef6b9315fa7a3ac7ec1b047042395404a23c368fc971a8f3e"
+    },
+    {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+    },
+    {
+      "path": "ProjectSettings/VFXManager.asset",
+      "sha256": "f066c6483919961332415ee64204f74fe52f38c02e82892eb02b7a5b2e381f0e"
+    },
+    {
+      "path": "ProjectSettings/XRSettings.asset",
+      "sha256": "edd2beb4a2e388312b4b7da241aa51070434005d82c59363f1237dd2e567585f"
+    },
+    {
+      "path": "Tools/build_su57.ps1",
+      "sha256": "106e1b9bf2c2c96815d08846d27d55b8718ed715aebc1232baa206c25e88f162"
+    },
+    {
+      "path": "Tools/inspect_flight_references.py",
+      "sha256": "69d0047ff662d972a4a97a66fbaf47457436f7361dfe20d1c5bbda48837ac109"
+    },
+    {
+      "path": "Tools/inspect_fs41_structure.py",
+      "sha256": "74dc746d644c5d528a2d68b9d3c47a020f2505de2bbd54fb99c8efd9cc37ae08"
+    },
+    {
+      "path": "Tools/prepare_fs41_structure_reference.py",
+      "sha256": "3d513fe642d2b9d588c390ddf51095bb067c93a34414ded8319dccbf8dcc3cf1"
+    },
+    {
+      "path": "Tools/prepare_su57_damage_details.py",
+      "sha256": "4736ae9fe42d250c03f97aabb79e693a6c05814c1845a7039418fe1f50a95e7b"
+    },
+    {
+      "path": "Tools/prepare_su57_damage_sections.py",
+      "sha256": "62313558354849139ba93d76faf2d2024fd0a863049f336251e33349c7fdf8cb"
+    },
+    {
+      "path": "Tools/prepare_su57_liveries.py",
+      "sha256": "2d5967f1c9e7f9ddd2978e079f02dece1d4ad91305a0325a8d53f741484346ae"
+    },
+    {
+      "path": "Tools/prepare_su57_mass_properties.py",
+      "sha256": "97d85fd1dab43698fd4563bec7301a7c8471a8414928f72a97292c2ea9eaade7"
+    },
+    {
+      "path": "Tools/prepare_su57_nozzle_skin.py",
+      "sha256": "21378262cde33c0c4660deef4051babcf2344518521188e01a7deaa78b955dd8"
+    },
+    {
+      "path": "Tools/prepare_su57_surface.py",
+      "sha256": "ed62492a6f288ddf477b39c37c00ce139b934322c029a241293b65687a1df659"
+    },
+    {
+      "path": "Tools/prepare_su57_wing_skin.py",
+      "sha256": "73d75a8bf41e159efa1ca98173aa7574f0f4b038fe510f88be3a202879dd289f"
+    },
+    {
+      "path": "Tools/requirements_su57_authoring.txt",
+      "sha256": "4f5b624d3834ba7e7d8e888b1d27502291ee1e4fe420c2151f6391cdb2a878f5"
+    },
+    {
+      "path": "Tools/RuntimeProbe.cs",
+      "sha256": "eca84b888e77e8a6027fb3e7bdc13bfdaf5fc4f2d6f125d4f753003e59481c0a"
+    },
+    {
+      "path": "Tools/su57_collision_cells.py",
+      "sha256": "ee5a969c51e61c63bfa59fda3b3a2d752828145d8d37c33f06e34c9b65dcbae4"
+    },
+    {
+      "path": "Tools/su57_side_bays.py",
+      "sha256": "b05b4357128967ea3ed8f8a7acc6d5639f88abebc848b4a75ea8c56afbf3f794"
+    },
+    {
+      "path": "Tools/summarize_su57_flight.py",
+      "sha256": "d925fa7219c60a9570a9f366eea691d00901172cbdf3c1491594ec27bef7a83c"
+    },
+    {
+      "path": "Tools/test_su57_flight.ps1",
+      "sha256": "50ae8a712b5be805f3e32bde82523a3a040d2dea35d915847d442d17a44a57d0"
+    },
+    {
+      "path": "Tools/validate_su57_bundle.py",
+      "sha256": "96db0545c94f96d711325d18bda5701d429ecd6f53cb0971417d8a178e03bab1"
+    },
+    {
+      "path": "Tools/SU57GearMotion/Su57FractureDisplay.cs",
+      "sha256": "a0ec77cc127f1c3a250ca1a7b587bdf53479f0676a9783149a82edd9e9d94c0a"
+    },
+    {
+      "path": "Tools/SU57GearMotion/Su57GearMotion.cs",
+      "sha256": "2b0ef4ae8686741ec85634c7a159a1c6df44b28918d8bd5a50861b7ac3b8b0ee"
+    },
+    {
+      "path": "Tools/SU57GearMotion/Su57MassProperties.cs",
+      "sha256": "4f6379517deccf84940bca40cb36944225479423afd2a21bcfce9837fa29bade"
+    }
+  ]
+}

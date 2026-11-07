@@ -1,0 +1,8 @@
+{
+  "pluginVersion": "0.2.34",
+  "embeddedAircraftVersion": "0.2.32",
+  "file": "Su-57.dll",
+  "bytes": 61564928,
+  "sha256": "a0c3c7e771982bdf0aa7b1ebfc45bedd5230d9e068046b33ad2674bb207894ea",
+  "status": "compiled, user acceptance pending; no new build or game test during repository preparation"
+}

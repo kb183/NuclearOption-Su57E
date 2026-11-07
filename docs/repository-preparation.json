@@ -1,0 +1,22 @@
+{
+  "sourceVersion": "0.2.34",
+  "date": "2026-11-07",
+  "changesInExportOnly": [
+    "Project-relative build output and configurable game/Unity paths",
+    "Removed personal Unity MCP dependency; pinned Blueprinter Git package",
+    "Conditional editor assembly compilation after local game import",
+    "Configurable legacy diagnostic paths and generated response file",
+    "Local aircraft resource import helper",
+    "Source-only Git rules, MIT and upstream notices, bilingual documentation and GitHub templates",
+    "Removed stale sample-scene build entry"
+  ],
+  "notRun": [
+    "Unity",
+    "C# compilation",
+    "project validation scripts",
+    "game",
+    "automatic flight tests"
+  ],
+  "originalAuthoringProjectModified": false,
+  "releaseDllRebuilt": false
+}
